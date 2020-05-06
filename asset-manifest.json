@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/questapp/static/css/main.072b94c7.chunk.css",
+    "main.js": "/questapp/static/js/main.16e9a7c0.chunk.js",
+    "main.js.map": "/questapp/static/js/main.16e9a7c0.chunk.js.map",
+    "runtime-main.js": "/questapp/static/js/runtime-main.b8ed0df6.js",
+    "runtime-main.js.map": "/questapp/static/js/runtime-main.b8ed0df6.js.map",
+    "static/js/2.49a1e95a.chunk.js": "/questapp/static/js/2.49a1e95a.chunk.js",
+    "static/js/2.49a1e95a.chunk.js.map": "/questapp/static/js/2.49a1e95a.chunk.js.map",
+    "index.html": "/questapp/index.html",
+    "precache-manifest.f73fcf0fbe129c2561df5d20b00f6368.js": "/questapp/precache-manifest.f73fcf0fbe129c2561df5d20b00f6368.js",
+    "service-worker.js": "/questapp/service-worker.js",
+    "static/css/main.072b94c7.chunk.css.map": "/questapp/static/css/main.072b94c7.chunk.css.map",
+    "static/js/2.49a1e95a.chunk.js.LICENSE.txt": "/questapp/static/js/2.49a1e95a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/questapp/static/media/background.dc3d9960.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8ed0df6.js",
+    "static/js/2.49a1e95a.chunk.js",
+    "static/css/main.072b94c7.chunk.css",
+    "static/js/main.16e9a7c0.chunk.js"
+  ]
+}
