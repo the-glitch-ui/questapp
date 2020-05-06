@@ -60,7 +60,7 @@ To-do list:
 2. JavaScript (ES2015 / ES6)
 
    - Event handlers
-   - OnClick handler
+   - onClick handler
    - Arrow functions
    - Destructuring arguments
    - Ternary operators
