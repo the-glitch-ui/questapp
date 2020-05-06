@@ -22,7 +22,7 @@ Displaying the original text edited by Ryan Gostly, based on the poem "Pale fire
 
 ## Screenshots
 
-![Message App](./img_messageapp.jpg)
+![Message App](https://github.com/the-glitch-ui/questapp/blob/master/img_questapp.jpg)
 
 ## Built with
 
