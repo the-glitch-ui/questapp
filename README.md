@@ -68,7 +68,7 @@ To-do list:
    - Conditional rendering
    - map array
    - Asynchronous JavaScript
-   - Regular expresions
+   - Regular expressions
 
 3. HTML5 & CSS3
 
